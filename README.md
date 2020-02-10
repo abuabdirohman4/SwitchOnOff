@@ -1,2 +1,0 @@
-# SwitchOnOff
-Created with CodeSandbox
